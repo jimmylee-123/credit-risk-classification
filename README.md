@@ -55,7 +55,7 @@ The instructions for this Challenge are divided into the following subsections:
  
 ## Source Code Location
 
-* The source code files Are located in the root directory.
+* The source code files are located in the root directory.
 
 ## Acknowledgments
 
